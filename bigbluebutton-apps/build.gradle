@@ -1,6 +1,5 @@
 usePlugin 'java'
 usePlugin 'war'
-usePlugin 'eclipse'
 
 version = '0.8'
 jar.enabled = true
